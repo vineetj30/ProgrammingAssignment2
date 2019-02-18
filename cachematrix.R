@@ -17,7 +17,7 @@ makeCacheMatrix <- function(x = matrix()) {
 
 
 ## Write a short comment describing this function
-## jenkinstest
+## jenkinstest second time
 cacheSolve <- function(x, ...) {
         ## Return a matrix that is the inverse of 'x'
         inv <- x$getinv()
